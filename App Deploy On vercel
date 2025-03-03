@@ -1,0 +1,13 @@
+Step 1: Install Vercel CLI
+Run this in your project folder:
+npm install -g vercel
+
+Step 2: Login to Vercel
+vercel login
+Follow the instructions to log in.
+
+Step 3: Build & Deploy
+Inside your project directory:
+vercel
+
+vercel make the usage of app in live smoothly and fast
